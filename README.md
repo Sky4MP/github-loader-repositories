@@ -2,9 +2,9 @@
 
 ## Screenshots
 
-![main](https://raw.githubusercontent.com/rodrilima/github-loader-repositories/master/images/main.png)
+![main](https://raw.githubusercontent.com/sky4mp/github-loader-repositories/master/images/main.png)
 
-![repository](https://raw.githubusercontent.com/rodrilima/github-loader-repositories/master/images/repository.png)
+![repository](https://raw.githubusercontent.com/sky4mp/github-loader-repositories/master/images/repository.png)
 
 ## Demo
 
@@ -45,7 +45,7 @@ To run this project, you'll only need to have the npm installed.
 Cloning the Repository
 
 ```
-$ git clone https://github.com/rodrilima/github-loader-repositories.git
+$ git clone https://github.com/sky4mp/github-loader-repositories.git
 
 $ cd github-loader-repositories
 
