@@ -8,7 +8,7 @@
 
 ## Demo
 
-[Click here](https://rodrilima.github.io/github-loader-repositories/) to see the demo page.
+[Click here](https://sky4mp.github.io/github-loader-repositories/) to see the demo page.
 
 ### How it works
 
